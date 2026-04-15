@@ -44,7 +44,7 @@ public class App {
         System.out.println("\nTotal Marks: " + total);
         System.out.println("Average: " + average);
         System.out.println("Grade: " + grade);
-        System.out.println("after modify";)
+        System.out.println("after modify");
 
         scanner.close();
     }
